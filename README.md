@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Akash Pradeep
+- 👀 I’m interested in Cyber security and Web development 
+- 🌱 I’m currently learning BCA with cyber security
+- 💞️ I’m looking to collaborate on web development 
+- 📫 contact me on instagram @a__sh.191
+-    or send me a mail akashpradeep191@gmail.com
