@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Akash Pradeep
-- 👀 I’m interested in Cyber security and Web development 
-- 🌱 I’m currently learning BCA with cyber security
-- 💞️ I’m looking to collaborate on web development 
-- 📫 contact me on instagram @a__sh.191
+- 💻 Certified Ethical Hacker
+- 👀 I’m interested in Cyber security and Bug Hunting.  
+- 🌱 I Graduated BCA with cyber security
+- 💞️ I’m looking to collaborate on Bug Bounty Hunting 
+- 📫 contact me on instagram @a.shh191
 -    or send me a mail akashpradeep191@gmail.com
